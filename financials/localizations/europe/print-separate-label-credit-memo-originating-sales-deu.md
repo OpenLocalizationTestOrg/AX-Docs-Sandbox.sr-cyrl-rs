@@ -1,24 +1,27 @@
 ---
-title: Print a separate label for credit memos that originate from sales | Microsoft Docs
+title: Print a separate label for credit memos that originate from sales
 description: This article explains how to specify the label that appears on credit memos that originate from sales.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-01-06 20:58:38
+ms.date: 2016-01-06 20 - 58 - 38
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: OMLegalEntity
+ms.search.form: OMLegalEntity
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 28871
-ms.assetid: e0972bc3-fd12-478a-995b-d82a7876bd35
-ms.region: Germany
+ms.assetid: d277b35b-f75a-433a-a049-da0792793143
+ms.search.region: Germany
 ms.author: epopov
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: dd7f2469d4a6ef1be25e0f672d3e86abbda62dfa
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4fff84532b1e3f5f473ba32d80f8966bbc4477eb
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -32,10 +35,5 @@ On the **Legal entities** page, you can use the **Print corrective invoice on a 
 -   If the **Print corrective invoice on a sales memo** option is set to **No**, the label "Gutschrift" will be printed on all credit memos.
 -   If the **Print corrective invoice on a sales memo** option is set to **Yes**, the label "Rechnungskorrektur” will be printed on credit memos from sales orders, free text invoices, and project invoices.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

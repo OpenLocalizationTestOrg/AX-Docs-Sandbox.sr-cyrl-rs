@@ -1,23 +1,25 @@
 ---
-title: Fixed asset revaluation groups | Microsoft Docs
+title: Fixed asset revaluation groups
 description: This topic provides information about fixed asset revaluation groups for Spain.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-21 01:45:01
+ms.date: 2016-12-21 01 - 45 - 01
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264994
-ms.assetid: 2bf1a59b-a74f-4e50-8aad-43f0677ed040
-ms.region: Spain
+ms.assetid: 50ed4cae-7606-4ded-a07b-992848ece5ae
+ms.search.region: Spain
 ms.author: epopov
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b2a4b0298525036f0007156b5631fcced9a5430d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c0d854f3f8bdbc39f6a662dbbc3210a68fba7474
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -85,10 +87,5 @@ You can set up a revaluation group in the **Revaluation groups** page. In the up
 </table>
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: VAT statement details for Austria | Microsoft Docs
+title: VAT statement details for Austria
 description: This topic explains how to set up the VAT statement for legal entities in Austria.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-16 21:26:36
+ms.date: 2016-12-16 21 - 26 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TaxAuthority, TaxReportCollection, TaxTable
+ms.search.form: TaxAuthority, TaxReportCollection, TaxTable
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 264334
-ms.assetid: 79e98b5b-ca0a-44ff-b028-d05bafe6a934
-ms.region: Austria
+ms.assetid: 2542c9e1-ed47-416f-9773-7b87eef66e78
+ms.search.region: Austria
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-05-2016
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: d331960307ba214de4382feac7941aa5065c523d
-ms.openlocfilehash: 9b70b2521f1c57583cb5122030633dc71b00e123
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9772b2e5716d8726495b2a37b0cae5f4654fa55f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -27,7 +29,7 @@ ms.openlocfilehash: 9b70b2521f1c57583cb5122030633dc71b00e123
 
 This topic explains how to set up the VAT statement for legal entities in Austria.
 
-This topic includes country/region-specific information about the setup of the value-added tax (VAT) statement for legal entities in Austria only. For more information about the setup of the VAT statement, see [(EU) VAT reporting](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-vat-reporting). The rest of this topic shows how to set up sales tax codes and sales tax reporting codes for the Austrian VAT declaration, so that VAT statements can be generated.
+This topic includes country/region-specific information about the setup of the value-added tax (VAT) statement for legal entities in Austria only. For more information about the setup of the VAT statement, see [(EU) VAT reporting](eu-vat-reporting.md). The rest of this topic shows how to set up sales tax codes and sales tax reporting codes for the Austrian VAT declaration, so that VAT statements can be generated.
 
 ## <a name="set-up-sales-tax-authorities"></a>Set up sales tax authorities
 To generate a VAT declaration in the correct format for the appropriate tax authority, you must set up the report layout for the sales tax authorities. On the **Sales tax authorities** page, in the **Report layout** field, select **Austrian report layout**. Select the same sales tax authority for the sales tax settlement period that will be used in the sales tax codes.
@@ -131,10 +133,5 @@ At the end of the VAT reporting period, run **Settle and post** **sales tax** to
 </table>
 
 To generate a VAT XML file, use the **Report sales tax for settlement period** page.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

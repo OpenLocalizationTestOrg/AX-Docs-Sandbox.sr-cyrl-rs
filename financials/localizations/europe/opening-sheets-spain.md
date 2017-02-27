@@ -1,23 +1,25 @@
 ---
-title: Special entries and opening sheets | Microsoft Docs
+title: Special entries and opening sheets
 description: Legal entities in Spain can post special entries as opening entries for the current period, while adapting accounts to changes in accounting rules.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-02 21:05:24
+ms.date: 2016-12-02 21 - 05 - 24
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 261334
-ms.assetid: a04b087d-1c40-4dfe-baec-9280e90bd271
-ms.region: Spain
+ms.assetid: ee065203-20dc-4bbb-bc56-bb01d28a6576
+ms.search.region: Spain
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 8bc2a1659dc7110fea2421ee6f085f3bce2687bf
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4f5a50f99d31c0d251e6d9ac256d41ee030b8af1
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -47,10 +49,5 @@ To create a new **Opening sheet,** click **New** on the **Opening sheets** page,
 | **Post**           | Specify the posting date for the adjustments.                                                                                                                                                                                                                                                     |
 
 After you enter the general information about the opening sheet, you'll need to specify the main accounts to include in the opening sheet. To do this, click **Opening accounts** &gt; **Load balances** on the **Opening sheets** page. To post all ledger account balances and adjustments to the opening sheet, click **Post**.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

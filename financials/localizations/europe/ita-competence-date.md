@@ -1,23 +1,25 @@
 ---
-title: Competence date for transactions | Microsoft Docs
+title: Competence date for transactions
 description: This topic provides information about the competence date and explains how to enable the functionality for transactions in Italy.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-19 16:06:00
+ms.date: 2016-12-19 16 - 06 - 00
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264534
-ms.assetid: d3512537-8374-4fc3-a398-822693cdbe34
-ms.region: Italy
+ms.assetid: d151f65a-3257-4296-8b00-d93c1dfdcf0e
+ms.search.region: Italy
 ms.author: epopov
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: cfc4722b14cd378757b1d51e6b8590dfe2cc54c8
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3ce8ec844a01ec543b10ebdc76ae7ab95af3db60
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -46,10 +48,5 @@ To enable this functionality for transactions, on the **General ledger parameter
 -   Project – Estimate post
 -   Project – Estimate reverse
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

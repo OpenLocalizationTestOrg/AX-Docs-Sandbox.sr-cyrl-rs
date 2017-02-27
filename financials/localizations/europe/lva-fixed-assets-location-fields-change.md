@@ -1,24 +1,26 @@
 ---
-title: Fixed assets location change tracking for Latvia | Microsoft Docs
+title: Fixed assets location change tracking for Latvia
 description: This topic provides information about the change tracking functionality for fixed asset location fields for legal entities with a primary address in Latvia.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2017-01-11 13:48:48
+ms.date: 2017-01-11 13 - 48 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetTable
+ms.search.form: AssetTable
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 266924
-ms.assetid: d6f3a0ca-a4c6-4448-98a9-1058f79d5ab6
-ms.region: Latvia
+ms.assetid: 7bbcacb6-a3c3-4e45-a1a5-e02feabf1f56
+ms.search.region: Latvia
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-05-2016
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: e1ad09de4d783b7150e205df567e0b76fbf7d121
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: b9fc2d985dcca37a738f63642e993d7717794f54
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -40,10 +42,5 @@ Your modification is saved when you click **Save** or when you move your focus a
 3.  On the **Fixed asset** tab, click **Transfers** &gt; **Internal transfer history**.
 4.  Optional: Click **Print** &gt; **Internal transfer statement**.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

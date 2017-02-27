@@ -1,24 +1,26 @@
 ---
-title: One-time customers | Microsoft Docs
+title: One-time customers
 description: This topic provides information about one-time customers.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-16 21:38:18
+ms.date: 2016-12-16 21 - 38 - 18
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustTable
+ms.search.form: CustTable
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264394
-ms.assetid: bd809211-914d-4cf9-9693-15252f568c39
-ms.region: Spain
+ms.assetid: 28357e20-5e7e-4fe9-bbdf-d4812951369e
+ms.search.region: Spain
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: d331960307ba214de4382feac7941aa5065c523d
-ms.openlocfilehash: 1f4417c92f3317c9acc335dedde4cef3f00b8e2d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 0602cb58d4d7501f2fba7c230b15314d386c8e56
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -40,10 +42,5 @@ A one-time customer is a customer who does not have a long-term relationship wit
 2.  Set the **No one-time customer for project contracts** parameter to **True**.
 3.  Click **Save**.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

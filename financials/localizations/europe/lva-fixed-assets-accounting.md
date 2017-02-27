@@ -1,24 +1,26 @@
 ---
-title: Fixed assets accounting for tax purposes | Microsoft Docs
+title: Fixed assets accounting for tax purposes
 description: This topic provides information about the tax Depreciation functionality for Latvia.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-16 21:35:17
+ms.date: 2016-12-16 21 - 35 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetBookTable, AssetDepreciationProfile, AssetTable, AssetTaxDepreciation
+ms.search.form: AssetBookTable, AssetDepreciationProfile, AssetTable, AssetTaxDepreciation
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264374
-ms.assetid: 05c44fd2-6f5e-4028-9b55-dfb92faee9c0
-ms.region: Latvia
+ms.assetid: cbf94106-2c1b-45dd-8734-18a2a56a4682
+ms.search.region: Latvia
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1386e3cc8e317496274b972b9ba18a7667941fb1
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: de6f54c668b0bb23b59ea0035fd916ed753071bf
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -27,7 +29,7 @@ ms.openlocfilehash: 1386e3cc8e317496274b972b9ba18a7667941fb1
 
 This topic provides information about the tax Depreciation functionality for Latvia. 
 
-This topic discusses tax depreciation setup and calculation as well as printing the tax depreciation report. **Note:** Tax depreciation works with the value models. The value model and depreciation book have been merged into a single concept that is called a *book.* For more information, see [Fixed asset value model and depreciation book merge](https://docs.microsoft.com/en-us/dynamics365/operations/financials/fixed-assets/fixed-asset-value-model-and-depreciation-book-merge).
+This topic discusses tax depreciation setup and calculation as well as printing the tax depreciation report. **Note:** Tax depreciation works with the value models. The value model and depreciation book have been merged into a single concept that is called a *book.* For more information, see [Fixed asset value model and depreciation book merge](fixed-asset-value-model-depreciation-book-merge.md).
 
 ## <a name="set-up-a-depreciation-profile"></a>Set up a depreciation profile
 When you set up a depreciation profile, consider the following.
@@ -77,10 +79,5 @@ To view the tax depreciation details, click **Tax depreciation details** to open
 
 ## <a name="print-the-tax-depreciation-report"></a>Print the Tax depreciation report
 The **Tax depreciation** report provides Latvian users with tax reporting that is relevant to fixed assets in a company. To print the report, go to the **Tax depreciation calculation** page, select a specific record to summarize at the **Category** level. Click **Tax depreciation report** for categories that are not summarized using the **Tax depreciation** report.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

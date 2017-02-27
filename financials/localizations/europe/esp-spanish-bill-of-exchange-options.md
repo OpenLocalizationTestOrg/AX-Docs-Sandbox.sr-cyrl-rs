@@ -1,23 +1,25 @@
 ---
-title: Spanish bill of exchange options | Microsoft Docs
+title: Spanish bill of exchange options
 description: This topic describes specific options and changes in basic bill of exchange process implemented in Microsoft Dynamics 365 for Operations for legal entities in Spain.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-19 18:00:38
+ms.date: 2016-12-19 18 - 00 - 38
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264644
-ms.assetid: d28c4650-d91f-4349-8233-7c547dc28a6e
-ms.region: Spain
+ms.assetid: 67e8f90e-5522-4631-96c5-62d193eab72f
+ms.search.region: Spain
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ea8ef333fed4a5085d0e52f9b83686ac35f19891
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 86f57da22b8422d47ba8d3f84099479aa5025fa4
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -51,10 +53,5 @@ If the **Date treatment on bill of exchange journal** parameter is set to **Yes*
 -   Protest bill of exchange journal
 -   Redraw bill of exchange journal
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

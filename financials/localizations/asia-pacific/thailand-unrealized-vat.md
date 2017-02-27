@@ -1,23 +1,25 @@
 ---
-title: Thailand unrealized VAT | Microsoft Docs
+title: Thailand unrealized VAT
 description: This topic provides information about unrealized VAT and how to set it up. It also explains how to calculate and post purchase orders that have unrealized purchase VAT and sales orders that have unrealized sales VAT, and generate reports.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2017-01-05 15:50:54
+ms.date: 2017-01-05 15 - 50 - 54
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 265924
-ms.assetid: ebcbad3f-e21e-4226-8dd0-d44d964d11dc
-ms.region: Thailand
+ms.assetid: 829a101f-e329-48b9-baf8-e36670ff43c8
+ms.search.region: Thailand
 ms.author: leguo
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 34e5e33271a7979591fa1f28abe2a42351c3a44a
-ms.openlocfilehash: c6da447489aca147692c61f4a57d44cfacf06194
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d0287543f2c784946706124a7fa74c1578a4dbb1
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -55,10 +57,5 @@ Follow these steps to calculate and post sales orders that have unrealized sales
 2.  **Reverse the unrealized sales VAT that was posted.** After you receive and make the payment, the unrealized sales VAT is reversed, and the output VAT is posted. You can use the **Payments** page to generate the tax invoice or receipt/tax invoice for the transaction. You can then send the tax invoice or receipt/tax invoice to the customer.
 3.  **Generate the Output sales tax report.** This report includes the transactions that the sales VAT is realized for, and includes the details of the VAT that the legal entity receives for the sales of goods and services.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

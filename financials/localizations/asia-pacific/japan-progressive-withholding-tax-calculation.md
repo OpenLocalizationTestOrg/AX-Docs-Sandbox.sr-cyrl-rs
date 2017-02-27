@@ -1,23 +1,25 @@
 ---
-title: Progressive withholding tax | Microsoft Docs
+title: Progressive withholding tax
 description: This topic provides information about progressive withholding tax in Japan. Per the legal requirement in Japan, the tax percentage changes, depending on the interval in proportion to the invoice amount. The tax ratio also changes, based on the payment amount.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-22 15:29:17
+ms.date: 2016-12-22 15 - 29 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 265164
-ms.assetid: 120c149a-9968-4ab7-8cab-eddaa0964554
-ms.region: Japan
+ms.assetid: 5ee3e381-31c4-48ac-9488-0eb1bc524cf5
+ms.search.region: Japan
 ms.author: leguo
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1f8afa25327a0b35dcd8cb0d4a312d32f5036d09
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: cf8e975e027af512e23d90198786aeec13f75d91
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -123,10 +125,5 @@ In this example, withholding tax is calculated by using an **Origin of percentag
 |                         |            | **Total WHT amount**                            | **759.00**      |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

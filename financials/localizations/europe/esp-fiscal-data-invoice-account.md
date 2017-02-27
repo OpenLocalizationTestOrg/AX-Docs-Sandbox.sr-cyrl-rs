@@ -1,23 +1,25 @@
 ---
-title: Use fiscal data from the invoice account | Microsoft Docs
+title: Use fiscal data from the invoice account
 description: For legal entities in Spain, the Use fiscal data from invoice account functionality enables fiscal data on sales orders, free text invoices, and purchase orders to be updated automatically, based on information from the invoice account. This topic provides information about the Use fiscal data from invoice account functionality and explains how to set it up.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-22 16:47:48
+ms.date: 2016-12-22 16 - 47 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 265224
-ms.assetid: 81cdcc35-be21-4ab1-9f16-fddab9eb29ed
-ms.region: Spain
+ms.assetid: 8b46e367-0f19-46d1-8fc2-88d035c460a0
+ms.search.region: Spain
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: d331960307ba214de4382feac7941aa5065c523d
-ms.openlocfilehash: 401739707c11df9f4bfc6c0c4367ec20e30bc2c9
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: da1a90546b9505b8f6427a77ca03833e5242f6e0
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -64,10 +66,5 @@ When the **Invoice account** field is changed, the following fields can be updat
 -   Sales tax group
 -   Tax exemption
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

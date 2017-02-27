@@ -1,24 +1,26 @@
 ---
-title: Fixed assets disposal for Poland | Microsoft Docs
+title: Fixed assets disposal for Poland
 description: This topic provides information about fixed asset disposal functionality for users in legal entities in Poland.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2017-01-11 14:59:08
+ms.date: 2017-01-11 14 - 59 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetParameters, AssetPosting, CustFreeInvoice, LedgerJournalTable
+ms.search.form: AssetParameters, AssetPosting, CustFreeInvoice, LedgerJournalTable
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 266964
-ms.assetid: 6d9f79ef-a880-4069-93d0-05fcab115ced
-ms.region: Poland
+ms.assetid: 99f3a20c-2e2e-4fc7-b846-3d86802174c4
+ms.search.region: Poland
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-05-2016
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 9d194fad1d7d6dbaaa3f9bfa25944d0739c3f19f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ae7b54856cf91302c0695cd241cbf57fb2d39d2a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -27,7 +29,7 @@ ms.openlocfilehash: 9d194fad1d7d6dbaaa3f9bfa25944d0739c3f19f
 
 This topic provides information about fixed asset disposal functionality for users in legal entities in Poland. 
 
-Fixed assets can be sold using disposal functionality through a free text invoice, fixed asset journal, or general journal in General ledger. For more information about fixed asset disposal, see [Fixed asset disposal posting accounts](https://docs.microsoft.com/en-us/dynamics365/operations/financials/fixed-assets/fixed-asset-disposal-posting-accounts). For users in legal entities in Poland, the fixed assets disposal functionality extension includes:
+Fixed assets can be sold using disposal functionality through a free text invoice, fixed asset journal, or general journal in General ledger. For more information about fixed asset disposal, see [Fixed asset disposal posting accounts](fixed-asset-disposal-posting-accounts.md). For users in legal entities in Poland, the fixed assets disposal functionality extension includes:
 
 -   A template for asset disposal on the **Fixed asset posting profiles** page.
 -   Two additional parameters on the **Permission to sell fixed asset** page. A **Check whether asset can be sold** check box and a **Permission to sell fixed asset** check box on the **Reference and notes** FastTab of a fixed asset. If the **Check whether asset can be sold** check box is selected, only assets marked as **Permission to sell fixed asset** can be sold.
@@ -77,10 +79,5 @@ A sale or scrap disposal of a fixed asset allows disposal of an entire fixed ass
 -   **General** tab on the **Free text invoice** line.
 
 By default, the **Partial sales** field value is **100**. When a user selects the **Disposal scrap** or **Disposal sale** transaction type and an asset in a journal, the net book value will default on the journal line. If the user changes the percentage, the net book value on the journal line is reduced. The user can also manually change the net book value, after which the percentage in the **Partial sales** field will be recalculated. **Example** A fixed asset has been acquired at USD 10.000, depreciation USD 1.000, net book value USD 9.000. First partial sale 50% - net book value calculated for the journal line is 50% of USD 9.000 = USD 4.500. Second partial sale 50% - net book value calculated for the journal line is 50% of the remaining net book value USD 4.500 = USD 2.250. If a user wants to expense the remaining net book value of USD 2.250, he must enter a percentage of 100 on a journal or a free text invoice line.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

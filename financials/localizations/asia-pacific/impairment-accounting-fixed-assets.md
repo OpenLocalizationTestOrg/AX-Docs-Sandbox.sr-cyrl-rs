@@ -1,24 +1,26 @@
 ---
-title: Impairment accounting for fixed assets | Microsoft Docs
+title: Impairment accounting for fixed assets
 description: This topic includes information about impairment accounting for fixed assets in Japan.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-01-06 20:55:06
+ms.date: 2016-01-06 20 - 55 - 06
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetImpairmentAssetTransInquire_JP, AssetImpairmentIndicator_JP, AssetImpairmentManageTestResult_JP
+ms.search.form: AssetImpairmentAssetTransInquire_JP, AssetImpairmentIndicator_JP, AssetImpairmentManageTestResult_JP
 audience: Application User
-ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 28811
-ms.assetid: 2c034d05-0d5c-4a47-9b5c-505caab82608
-ms.region: Japan
+ms.assetid: db96c6bb-c2b1-4e26-b711-33caa49eb29f
+ms.search.region: Japan
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5428f0096d290b963d66fe231913907fc4fe69d5
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9095ca23cdd4a20c3de0848cff967f9c229295b2
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -27,7 +29,7 @@ ms.openlocfilehash: 5428f0096d290b963d66fe231913907fc4fe69d5
 
 This topic includes information about impairment accounting for fixed assets in Japan.
 
-You can perform the following tasks to set up and calculate fixed asset impairments by using Microsoft Dynamics AX:
+You can perform the following tasks to set up and calculate fixed asset impairments by using Microsoft Dynamics 365 for Operations:
 
 -   Generate a list of fixed assets that might be impaired. You can then manually review and calculate the undiscounted cash flow, fair value, or recoverable amounts of each asset in the list to determine whether the fixed assets are impaired.
 -   Update impairment indicators, such as the undiscounted cash flow of the fixed assets.
@@ -60,10 +62,5 @@ Yes, you can generate the following reports that contain information about impai
 -   Fixed asset impairment transactions report
 -   Review fixed assets for impairment report
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

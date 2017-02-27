@@ -1,23 +1,25 @@
 ---
-title: Italian black list report | Microsoft Docs
+title: Italian black list report
 description: Learn how to set up and maintain the Italian black list report.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-02 21:05:52
+ms.date: 2016-12-02 21 - 05 - 52
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 261414
-ms.assetid: 0bcb48ad-460d-4fb4-abd2-8a89685404e3
-ms.region: Italy
+ms.assetid: 6816ee1b-cb27-4653-8254-19e229934e6f
+ms.search.region: Italy
 ms.author: epopov
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: db4c1cd13e4f70bddc8886209e3c8b76f53b51f0
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e09b4e532a5f0f3f0b571a871552e41814f74409
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -60,10 +62,5 @@ Use the **Italian black list report** page to create a new report and transfer t
 -   Use **Apply threshold** to exclude invoices from the **Italian black list** report that are below the threshold amount that is specified in the **Threshold amount** field in the **General** section.
 -   Use **Report** to generate and export the report as a file.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

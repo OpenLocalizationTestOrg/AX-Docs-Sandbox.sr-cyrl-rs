@@ -1,23 +1,25 @@
 ---
-title: Withholding tax in Thailand | Microsoft Docs
+title: Withholding tax in Thailand
 description: This topic provides information about withholding tax and how to set it up for Thailand. The withholding tax functionality has been enhanced for both vendor and customer transactions, so that withholding tax is calculated and withholding tax reports are generated.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2017-01-05 15:38:16
+ms.date: 2017-01-05 15 - 38 - 16
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 265904
-ms.assetid: a9a97490-25bd-4f88-a6c1-306725e89246
-ms.region: Thailand
+ms.assetid: d530961f-98af-475a-9556-88169e20fb71
+ms.search.region: Thailand
 ms.author: leguo
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 34e5e33271a7979591fa1f28abe2a42351c3a44a
-ms.openlocfilehash: 3b3771663360239c3f0823698d39e1b7c3bac135
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4225403526bc3cddd0fccf0a9adf8bf2f0a93893
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -72,10 +74,5 @@ You must generate the **Withholding tax certificate** report after you've settle
 ### <a name="generate-the-withholding-tax-special-report"></a>Generate the Withholding tax special report
 
 When you submit the **Withholding tax (Por Ngor Dor 53)** or **Withholding tax (Por Ngor Dor 3)** report, and you pay the withheld tax to the Revenue Department of Thailand, the department issues a receipt number. You must enter this receipt number in the **Receipt number** field on the **Posted withholding tax** page. Then, at the end of the month, you must generate the **Withholding tax special** report and submit it to the Revenue Department of Thailand. This report is generated in a format that is specified by the Revenue Department of Thailand.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

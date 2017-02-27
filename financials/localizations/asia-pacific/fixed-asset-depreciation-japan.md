@@ -1,23 +1,25 @@
 ---
-title: Fixed asset depreciation for Japan FAQ | Microsoft Docs
+title: Fixed asset depreciation for Japan FAQ
 description: This article answers some frequently asked questions about fixed asset depreciation for Japan.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-10-19 23:02:51
+ms.date: 2015-10-19 23 - 02 - 51
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 10294
-ms.assetid: 22fde28b-0bc9-4bd9-b008-d9ef7e1954f1
-ms.region: Japan
+ms.assetid: 81dab75a-3760-48f2-b453-11b487def3b2
+ms.search.region: Japan
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 437ff014f6d9d5271d879f877de3e6c2272227a0
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: de0499d522c1d9036318b252a97721a43f8170df
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -63,10 +65,10 @@ The allowable limit for accumulated depreciation is the maximum amount of accumu
 -   **Maximum allowable limit for accumulated depreciation** – This limit is applied to both tangible assets and intangible assets that are depreciated by using a deprecation method other than the old straight line method or the old declining balance method. For a tangible asset, the maximum allowable limit for accumulated depreciation is the acquisition cost of the asset. The maximum allowable limit for accumulated depreciation of an intangible asset is the acquisition cost of the asset minus 1 Japanese yen (JPY).
 
 ## <a name="can-i-calculate-depreciation-for-a-fixed-asset-for-a-fiscal-year-that-has-fewer-than-12-months"></a>Can I calculate depreciation for a fixed asset for a fiscal year that has fewer than 12 months?
-Yes. Microsoft Dynamics AX supports depreciation calculation if a fiscal year has fewer than 12 months. You can set up multiple depreciation calendars and change between them. If the current fiscal year has fewer than 12 months after you change depreciation calendars, Microsoft Dynamics AX proportionally adjusts the depreciation ratio, based on the number of months in the current fiscal year and a fiscal year that has 12 months. The following example shows how depreciation is calculated for a fiscal year that has fewer than 12 months. The original fiscal year is from April 1, 2010, to March 31, 2011, and the depreciation is calculated for the whole fiscal year. After you change the depreciation calendar, the fiscal year is from January 1, 2011, to December 31, 2011. In this scenario, the months of January, February, and March become part of the previous fiscal calendar, and the current fiscal year consists of only nine months. The depreciation for the remaining nine months (from April 1, 2011, to December 31, 2011) is calculated by using a prorated method that uses the depreciation rates from the previous fiscal year.
+Yes. Microsoft Dynamics 365 for Operations supports depreciation calculation if a fiscal year has fewer than 12 months. You can set up multiple depreciation calendars and change between them. If the current fiscal year has fewer than 12 months after you change depreciation calendars, the depreciation ration is proportionally adjusted, based on the number of months in the current fiscal year and a fiscal year that has 12 months. The following example shows how depreciation is calculated for a fiscal year that has fewer than 12 months. The original fiscal year is from April 1, 2010, to March 31, 2011, and the depreciation is calculated for the whole fiscal year. After you change the depreciation calendar, the fiscal year is from January 1, 2011, to December 31, 2011. In this scenario, the months of January, February, and March become part of the previous fiscal calendar, and the current fiscal year consists of only nine months. The depreciation for the remaining nine months (from April 1, 2011, to December 31, 2011) is calculated by using a prorated method that uses the depreciation rates from the previous fiscal year.
 
 ## <a name="what-is-the-catchup-rule-for-depreciation-and-how-does-it-work"></a>What is the catchup rule for depreciation and how does it work?
-The catch-up rule for depreciation provides an effective way to allocate annual depreciation expenses to the depreciation expenses for each period. You can enable the catch-up rule in Microsoft Dynamics AX by selecting the **Allow catch-up rule for depreciation** check box on the **Fixed assets parameters** page. You can also specify whether the catch-up is applied at the end of a fiscal period or at the end of a fiscal year.
+The catch-up rule for depreciation provides an effective way to allocate annual depreciation expenses to the depreciation expenses for each period. You can enable the catch-up rule by selecting the **Allow catch-up rule for depreciation** check box on the **Fixed assets parameters** page. You can also specify whether the catch-up is applied at the end of a fiscal period or at the end of a fiscal year.
 
 ## <a name="how-do-i-calculate-a-depreciation-expense-by-using-the-catchup-rule"></a>How do I calculate a depreciation expense by using the catchup rule?
 The depreciation expense for each month is calculated and posted in the next month. The following factors are used to calculate the monthly depreciation expense:
@@ -124,7 +126,7 @@ Yes. You can change the depreciation profile of a fixed asset even after you've 
 </tbody>
 </table>
 
-You can use Microsoft Dynamics AX to track the history of the change. Microsoft Dynamics AX can also automatically calculate the new useful life of the asset, based on undepreciated balance schedules and years passed schedules.
+You can track the history of the change and you can also automatically calculate the new useful life of the asset, based on undepreciated balance schedules and years passed schedules.
 
 ## <a name="what-types-of-schedules-can-i-import-for-depreciation-purposes"></a>What types of schedules can I import for depreciation purposes?
 You can import the following schedules to recalculate the depreciation and service life of a fixed asset:
@@ -133,10 +135,5 @@ You can import the following schedules to recalculate the depreciation and servi
 -   Years passed schedule
 
 The depreciation rate schedule that you import depends on the type of depreciation method that you use for a fixed asset.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,27 @@
 ---
-title: ISR declaration report | Microsoft Docs
+title: ISR declaration report
 description: In Mexico, all individuals or corporations must file a monthly Impuesto sobre la renta (ISR) declaration report. This topic provides information about generating this report in Microsoft Dynamics AX.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-09-10 15:43:54
+ms.date: 2015-09-10 15 - 43 - 54
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ISRConcept_MX, ISRConceptMainAccount_MX, ISRRateTable_MX
+ms.search.form: ISRConcept_MX, ISRConceptMainAccount_MX, ISRRateTable_MX
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2821
-ms.assetid: 37892967-401a-4f19-9940-ed91620dc32e
-ms.region: Mexico
+ms.assetid: 77edc236-6101-4bd3-ab39-931295e68df4
+ms.search.region: Mexico
 ms.author: sndray
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 8ec8ffab2a83c7885a7ea5ef47940ab4185373f9
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 59ddfe731ed85dbfe075835b976f2e03f31e34fc
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -70,10 +73,5 @@ You can generate a detailed ISR report, or the report can summarize each main ac
     -   **Details**: The values are grouped by concept category and the main accounts that are linked to each category. Each record on the report shows the main account, the account name of the main account, voucher numbers, the period that the report is generated for, the posting type of the transactions, and the value of the transactions. The report also indicates whether the transactions are debits or credits. All the amount fields on the report are shown in the company currency
     -   **Summary**: The values are grouped by concept category, and the aggregate value of each concept category is calculated. This report shows the minimum amount, the fixed amount, the utility ratio, and the ISR rates. All the amount fields on the report are shown in the company currency.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

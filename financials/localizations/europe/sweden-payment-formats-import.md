@@ -1,24 +1,26 @@
 ---
-title: Import payment formats for Sweden | Microsoft Docs
+title: Import payment formats for Sweden
 description: This topic provides information about the BankGirot MAX, BankGirot OCR import, and BankGirot return formats for Sweden.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-12 22:14:51
+ms.date: 2016-12-12 22 - 14 - 51
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustPaymMode, CustVendPaymReconciliation, LedgerJournalTransCustPaym, VendPaymMode
+ms.search.form: CustPaymMode, CustVendPaymReconciliation, LedgerJournalTransCustPaym, VendPaymMode
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 262684
-ms.assetid: 240b8fed-5ce9-4a75-a7b4-eff7aaceee19
-ms.region: Sweden
+ms.assetid: 7632f01a-28b6-408f-8734-b03416c6fb81
+ms.search.region: Sweden
 ms.author: v-lenest
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: dd2a8b95f1711e3a3a962a78657e867047ff623f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c3f4f0f14dba962557ae2336af4a4e1fcca8549e
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -35,7 +37,7 @@ BankGirot MAX and BankGirot OCR file import lets you import customer payments in
 1.  Go to the **Payment journal** page.
 2.  Click **Lines**.
 3.  Click **Functions** &gt; **Import payments**.
-4.  In the dialog box, select the method of payment, and then browse to the location of the file to import. **Note**: Before you can complete this step, you must have already imported the configurations from Lifecycle Services (LCS) and set up the methods of payment. For more information, see [File formats for method of payments](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/select-file-formats-for-the-method-of-payments).
+4.  In the dialog box, select the method of payment, and then browse to the location of the file to import. **Note**: Before you can complete this step, you must have already imported the configurations from Lifecycle Services (LCS) and set up the methods of payment. For more information, see [File formats for method of payments](select-file-formats-for-the-method-of-payments.md).
 
 After you import the payment file, payment journal lines should be created for the selected journal and marked for settlement with customer invoices.
 
@@ -44,13 +46,8 @@ Bankgirot Autogiro returns format for the direct debit payment format of the sam
 
 1.  Go to the **Payment transfers** page.
 2.  Click **Return file-customer**.
-3.  In the dialog box, select corresponding method of payment, and then browse to the location of the file to import. **Note**: Before you can complete this step, you must have already imported the configurations from Lifecycle Services (LCS) and set up the methods of payment. For more information, see [File formats for method of payments](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/select-file-formats-for-the-method-of-payments).
+3.  In the dialog box, select corresponding method of payment, and then browse to the location of the file to import. **Note**: Before you can complete this step, you must have already imported the configurations from Lifecycle Services (LCS) and set up the methods of payment. For more information, see [File formats for method of payments](select-file-formats-for-the-method-of-payments.md).
 
 After you import the return file, the payments should be updated to the status **Approved**.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

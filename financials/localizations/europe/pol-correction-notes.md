@@ -1,23 +1,25 @@
 ---
-title: (POL) Correction notes | Microsoft Docs
+title: (POL) Correction notes
 description: This topic provides information about correction notes. A correction note is a document that is required by local regulations in Poland. It&quot;s used to correct errors on a vendor invoice.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-13 22:19:52
+ms.date: 2016-12-13 22 - 19 - 52
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 263404
-ms.assetid: 66cf3545-f847-47da-b854-62e870986b50
-ms.region: Poland
+ms.assetid: c66b3a3d-f199-4da5-965a-b69377c5dd22
+ms.search.region: Poland
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0fbc66264a5a3d31567022c531de0f939d36c66f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 6a62e1b57760b4582e959d4c939ed4b73e87dde7
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -40,10 +42,5 @@ If a vendor issues a sales document to a company, but makes a mistake about the 
 | Corrected text  | Enter the correct text for the invoice.                                                                                                                                                                                                                                  |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

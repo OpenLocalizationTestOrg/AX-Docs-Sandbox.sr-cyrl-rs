@@ -1,24 +1,27 @@
 ---
-title: Adjustment inflation declaration report | Microsoft Docs
+title: Adjustment inflation declaration report
 description: Microsoft Dynamics AX users can process inflation adjustments by using INPC rates, various methods (such as opening balance, balance, monthly balance, and transaction date), and various dimensions.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-09-16 21:49:34
+ms.date: 2015-09-16 21 - 49 - 34
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InflationAdjJournal_MX, InpcRateTable_MX, LedgerParameters, MainAccount
+ms.search.form: InflationAdjJournal_MX, InpcRateTable_MX, LedgerParameters, MainAccount
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 9391
-ms.assetid: 7cba87b3-cf30-4ee5-afd0-277e8990632b
-ms.region: Mexico
+ms.assetid: 9076bf16-0021-47ad-a3b9-1bab75c583ec
+ms.search.region: Mexico
 ms.author: sndray
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3acb95fb0e7e9e9d60b9015970030403c3e753a9
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2b1689d53e1960a7722b851eb3fc4f05214ffb22
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -118,10 +121,5 @@ This report shows the calculation of the capital and result account code inflati
 -   The account type for the main account is **Balance** **sheet**, **Asset**, **Liability**, or **Equity**.
 -   The adjustment type of the main account is **Transaction** **date**.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

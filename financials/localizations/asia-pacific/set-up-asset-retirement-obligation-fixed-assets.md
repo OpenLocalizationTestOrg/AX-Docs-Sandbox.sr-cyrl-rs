@@ -1,24 +1,26 @@
 ---
-title: Set up asset retirement obligation for fixed assets | Microsoft Docs
+title: Set up asset retirement obligation for fixed assets
 description: In Japan, asset retirement obligation (ARO) is recognized for fixed assets that have legal obligations at their retirement. This article explains how the ARO liability is recognized, amortized, and accrued, and how the fixed asset and ARO liability are retired.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-10-19 22:59:08
+ms.date: 2015-10-19 22 - 59 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetRetirementObligation_JP, AssetRetirementObligationDocument_JP, AssetRetirementObligationExplorer_JP, AssetRetirementObligationLine_JP, AssetTable
+ms.search.form: AssetRetirementObligation_JP, AssetRetirementObligationDocument_JP, AssetRetirementObligationExplorer_JP, AssetRetirementObligationLine_JP, AssetTable
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 10174
-ms.assetid: 1337c434-2a4b-42a5-bb8a-db4918da45d2
-ms.region: Japan
+ms.assetid: f14ac15f-b99b-4853-9648-de31f3cb36cf
+ms.search.region: Japan
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: bbde1873f0d4c10fdb9a8ba535d2af84d7c55883
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a6d4e5cbc92d994bdfc60aeb5a5faf276350452b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -60,10 +62,5 @@ If you don't have access to the pages that are used to complete this task, conta
 | Security roles and duties | To perform this task, you must be a member of the **-Maintain fixed assets-** security role.                                                                         |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

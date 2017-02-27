@@ -1,23 +1,25 @@
 ---
-title: Sales and purchase cycles for Spain | Microsoft Docs
+title: Sales and purchase cycles for Spain
 description: This topic describes how to set up sales order or purchase order cycles for a vendor or customer for legal entities in Spain.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-14 16:09:35
+ms.date: 2016-12-14 16 - 09 - 35
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 263444
-ms.assetid: 40431ae5-8ee9-47f3-b666-34ef984a8c01
-ms.region: Spain
+ms.assetid: 0dfb76cb-ca4c-4b64-b768-86d20c0e5f56
+ms.search.region: Spain
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: e0dc72937bf8c50d24c2e5981499c424dc178d9b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e24673ddf2c04d386286d7b7d3f57df04de754f0
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -47,10 +49,5 @@ You can specify which documents are active for a specific customer or vendor.
 -   To set up a specific sales document cycle for a customer, on the **All customers** page, select a customer. Then click **Sell** &gt; **Set up** &gt; **Sales cycle** &gt; **Edit**.
 -   To set up a specific purchase document cycle for a vendor, on the **All vendors** page, select a **Vendor**. Then click **Procurement** &gt; **Set up** &gt; **Purchase cycle** &gt; **Edit**.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,27 @@
 ---
-title: Fixed asset impairment accounting on cash generating units | Microsoft Docs
+title: Fixed asset impairment accounting on cash generating units
 description: This article introduces the features for fixed asset impairment that are included in Microsoft Dynamics AX. The primary objective of this article is to give the user an overview of the conceptual model for impairment accounting.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-12-12 23:14:44
+ms.date: 2015-12-12 23 - 14 - 44
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetAllocationGoodwillSharedAsset_JP, AssetCashGeneratingUnit_JP, AssetCashGeneratingUnitGroup_JP, AssetImpairmentRecognitionMethod1_JP, AssetImpairmentRecognitionMethod2_JP
+ms.search.form: AssetAllocationGoodwillSharedAsset_JP, AssetCashGeneratingUnit_JP, AssetCashGeneratingUnitGroup_JP, AssetImpairmentRecognitionMethod1_JP, AssetImpairmentRecognitionMethod2_JP
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 25691
-ms.assetid: 052f09bd-b25d-4251-bdc2-3491aed0387b
-ms.region: Japan
+ms.assetid: c87ac196-8dc6-4636-99a3-be478ddd8efe
+ms.search.region: Japan
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ec1bd1bb3fd3fe1a12616d1d59c18b58450e22c3
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 23c261303a94e86ed4f7c8f56e9b5b1564b6edac
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -55,10 +58,5 @@ The user can use the **Impairment reports and transactions** inquiry pages to re
 --------
 
 [Microsoft Dynamics AX 2012 R3 Fixed Asset Localization Feature Set - Japan](https://mbs.microsoft.com/partnersource/global/deployment/documentation/white-papers/msdAX2012R3JapanFixedAssets)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

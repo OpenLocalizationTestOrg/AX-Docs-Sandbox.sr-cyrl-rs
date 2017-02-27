@@ -17,15 +17,28 @@ ms.assetid: ad0cdfac-fd94-41df-9d0c-fbe0a91e2dce
 ms.region: Global
 ms.author: sericks
 translationtype: Human Translation
-ms.sourcegitcommit: 4966e4b9356009c7b1b8f22a24ceb57733ac77e7
-ms.openlocfilehash: ea3f9c7552a2b638256d2e42db8184bb8163d91e
+ms.sourcegitcommit: 1652f4d4c224002ce6cc3f8aaad53902050b485b
+ms.openlocfilehash: eb0682e286f27490706770ec272b65a9db7e4d69
+ms.lasthandoff: 02/22/2017
 
 
 ---
 
 # <a name="getting-started-home-page"></a>Getting started home page
 
-This page points to resources that will help you use the Microsoft Dynamics 365 for Operations user interface (UI) and Help system more effectively.
+This page points to resources that will help you onboard to Dynamics 365 for Operations, get comfortable with the user interface (UI) and use the Help system more effectively.
+
+## <a name="onboarding"></a>Onboarding
+The following resources provide an overview of the Lifecycle Services and how to work with your partner to get onboarded to Dynamics 365 for Operations.
+-   [Microsoft FastTrack for Dynamics 365 overview](https://ax.help.dynamics.com/en/wiki/fasttrack-dynamics-365-overview/)
+-   [Customer introduction to Lifecycle Services](http://ax.help.dynamics.com/en/wiki/how-lifecycle-services-for-microsoft-dynamics-ax-works-lcs/)
+-   [Partner introduction to Lifecycle Services](http://ax.help.dynamics.com/en/wiki/getting-started-in-lifecycle-services-for-microsoft-dynamics-ax/)
+-   [Sign up for a subscription](http://ax.help.dynamics.com/en/wiki/sign-up-for-a-microsoft-dynamics-rainier-preview-subscription/)
+-   [How to get the on-premises version of Dynamics AX 2012](http://ax.help.dynamics.com/en/wiki/csp-download-customersource/)
+
+### <a name="blogs-to-follow"></a>Blogs to follow
+
+### <a name="favorite-videos"></a>Favorite videos
 
 ## <a name="user-interface"></a>User interface
 The following resources provide information about the Dynamics 365 for Operations user experience. For example, these resources will help you navigate, personalize, and use Dynamics 365 for Operations more efficiently.
@@ -40,6 +53,10 @@ The following resources provide information about the Dynamics 365 for Operation
 -   [Advanced filtering and query options](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/advanced-filtering-and-query-options)
 -   [Dynamics 365 for Operations client FAQ](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/client-qa)
 -   [Change the banner or logo](http://ax.help.dynamics.com/en/wiki/change-the-banner-or-logo/)
+
+### <a name="blogs-to-visit"></a>Blogs to visit
+
+### <a name="favorite-videos"></a>Favorite videos
 
 ## <a name="help-system"></a>Help system
 The following resources provide an overview of the Help system and explain how to view field descriptions.
@@ -60,6 +77,10 @@ Task Recorder is a Dynamics 365 for Operations tool that you can use to record t
 -   [Create documentation or training using Task recordings](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder)
 -   [New task guides available (February 2016)](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-task-guides-available-on-february-2016)
 
+### <a name="blogs-to-visit"></a>Blogs to visit
+
+### <a name="favorite-videos"></a>Favorite videos
+
 ## <a name="additional-resources"></a>Additional resources
 -   Additional help is available as task guides inside Dynamics 365 for Operations. To access task guides, click the Help button on any page.
 -   For information about Microsoft Dynamics 365 for Operations training, see [Microsoft eLearning](https://mbspartner.microsoft.com/AX/LearningPlans) (requires a CustomerSource account).
@@ -71,9 +92,4 @@ Task Recorder is a Dynamics 365 for Operations tool that you can use to record t
 [New task guides available (February 2016)](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-task-guides-available-on-february-2016)
 
 [New or updated task guides available (May 2016)](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-or-updated-task-guides-available-may-2016)
-
-
-
-<!--HONumber=Feb17_HO3-->
-
 

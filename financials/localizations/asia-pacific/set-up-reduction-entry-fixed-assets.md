@@ -1,24 +1,27 @@
 ---
-title: Set up reduction entries for fixed assets | Microsoft Docs
+title: Set up reduction entries for fixed assets
 description: This article provides information about reduction entries for fixed assets and how to set them up in Microsoft Dynamics 365 for Operations. Reduction entries are a special accounting treatment for fixed assets that you acquire by using a government subsidy. You can use them to defer the corporate income tax for those assets throughout their service life.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-09-10 17:40:45
+ms.date: 2015-09-10 17 - 40 - 45
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetReductionEntryMassUpdate_JP, AssetReductionEntryProfile_JP
+ms.search.form: AssetReductionEntryMassUpdate_JP, AssetReductionEntryProfile_JP
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2871
-ms.assetid: 0cfeb12a-9815-40fa-96bf-a4fef1426d38
-ms.region: Japan
+ms.assetid: 14d0b482-f71c-432a-905e-04e19eda4313
+ms.search.region: Japan
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5d69a266ab23a442f3bf4af80333788d96ffee8a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 638a4c952b475c7829dadea2e37c47aea713a0a7
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -95,10 +98,5 @@ If you don't have access to the pages that are used to complete this task, conta
 --------
 
 [Microsoft Dynamics AX 2012 R3 Fixed Asset Localization Feature Set - Japan](https://mbs.microsoft.com/partnersource/global/deployment/documentation/white-papers/msdAX2012R3JapanFixedAssets)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: Cash discount is applied in the invoice parameter | Microsoft Docs
+title: Cash discount is applied in the invoice parameter
 description: This topic describes the Cash discount is applied in the invoice parameter for Spain.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-02 22:20:22
+ms.date: 2016-12-02 22 - 20 - 22
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerParameters
+ms.search.form: LedgerParameters
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 261474
-ms.assetid: 72b2737b-d9a7-4c0e-bb81-dfd9a078131c
-ms.region: Spain
+ms.assetid: 1be79a65-477a-4fb1-9cb6-70afe2b0846e
+ms.search.region: Spain
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 920dc76935cc727c5a8d47c6135a7ff3e4f00441
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 0d88601bde1ef43b7df7c28e3d5dcd77722b7c80
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -37,10 +39,5 @@ Usually, cash discounts are calculated during the settlement process for custome
 -   Invoice journals
 -   Free text invoices
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

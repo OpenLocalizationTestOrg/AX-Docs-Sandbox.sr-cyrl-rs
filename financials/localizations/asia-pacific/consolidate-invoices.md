@@ -1,24 +1,27 @@
 ---
-title: Consolidated invoices for Japan | Microsoft Docs
+title: Consolidated invoices for Japan
 description: In Japan, invoices are consolidated each month for payment. This article provides information about consolidated invoices, and explains how the invoice amount and due date are calculated.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-10-19 23:03:02
+ms.date: 2015-10-19 23 - 03 - 02
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustConsInvoice_JP, VendConsInvoice_JP
+ms.search.form: CustConsInvoice_JP, VendConsInvoice_JP
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 10314
-ms.assetid: beeedcec-1dd6-4086-8590-23db93d8cae4
-ms.region: Japan
+ms.assetid: bd7255d9-0b0e-4372-8563-eaa559adbf24
+ms.search.region: Japan
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b461160d36e84d9ecd1cabde8916ad2b8f25e250
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 218b29dfdde4e5a118aca44a024a1d1c7e2a16c5
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -57,10 +60,5 @@ Invoices are consolidated each month, based on the consolidation day that you sp
 | INV004         | June 8, 2012 | June 10, 2012     | July 31, 2012 |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

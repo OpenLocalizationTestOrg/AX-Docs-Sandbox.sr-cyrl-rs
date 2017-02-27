@@ -1,23 +1,25 @@
 ---
-title: Stock card reports | Microsoft Docs
+title: Stock card reports
 description: This topic provides information about stock card reports for legal entities in Thailand. A stock card report contains information about inventory movement, quantity, and cost for each item and warehouse, and must be generated when the government requests it. The stock card report is generated either before or after the inventory close process.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-22 15:29:27
+ms.date: 2016-12-22 15 - 29 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 265184
-ms.assetid: ac235b64-d145-4b29-ad12-b400231c423b
-ms.region: Thailand
+ms.assetid: 1ce8c70b-c6af-4171-98d2-2aa8e9563c5b
+ms.search.region: Thailand
 ms.author: leguo
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 34e5e33271a7979591fa1f28abe2a42351c3a44a
-ms.openlocfilehash: fa0c54452649f44eed40322a25036748f96eb607
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d78873e76560785bb97b9274b6eda36f51a76c7f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -47,10 +49,5 @@ Use the **Closing and adjustment** page to recalculate inventory after the inven
 
 ## <a name="generate-the-stock-card-report"></a>Generate the stock card report
 You can group items by site, warehouse, location, item number, or item group, and then generate the stock card reports. Use the **Stock card – Physical** report to generate the physical stock card report. Use the **Stock card – Financial** report to generate the financial stock card report. You can generate a detailed or summarized stock card report.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

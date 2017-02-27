@@ -1,23 +1,25 @@
 ---
-title: Low-cost fixed assets | Microsoft Docs
+title: Low-cost fixed assets
 description: This topic provides information about low-cost fixed assets for Hungary.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-19 19:43:08
+ms.date: 2016-12-19 19 - 43 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264684
-ms.assetid: 6af691a6-9fe8-4124-a60c-680cfd14d37c
-ms.region: Hungary
+ms.assetid: 8452cf9f-13fa-4ea0-a4e2-c35335c863b8
+ms.search.region: Hungary
 ms.author: epopov
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: dfc09f23996c9c87b7fc6439d9139fbc73ae578d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 633b537bde107a6b35a6449a412e4d6d584a05a3
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -45,10 +47,5 @@ When you create an acquisition transaction for an asset that uses the book for l
 ### <a name="generate-acquisition-and-depreciation-transactions-for-low-cost-fixed-assets"></a>Generate acquisition and depreciation transactions for low-cost fixed assets
 
 When you acquire an asset, you create an acquisition transaction from the pre-acquisition transaction. When you post the acquisition transaction for a low-cost asset, the depreciation transaction is generated automatically.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

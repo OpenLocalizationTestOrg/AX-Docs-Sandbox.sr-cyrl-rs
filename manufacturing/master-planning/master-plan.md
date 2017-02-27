@@ -17,8 +17,9 @@ ms.region: Global
 ms.industry: Manufacturing
 ms.author: yuyus
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
+ms.sourcegitcommit: 67144b364d721f265add5a5d67631d6271f2cf6e
 ms.openlocfilehash: 2cad3e52afdabcbec4b46a6756b2fec75e53c634
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -76,10 +77,5 @@ This topic provides a list of the Help topics and other resources that are avail
 -   For more information about master planning, see [Dynamics AX Manufacturing R&D Team blog](https://blogs.msdn.microsoft.com/axmfg/).
 -   For information about Microsoft Dynamics 365 for Operations training, see [Microsoft eLearning](https://mbspartner.microsoft.com/AX/LearningPlans) (requires a CustomerSource account).
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

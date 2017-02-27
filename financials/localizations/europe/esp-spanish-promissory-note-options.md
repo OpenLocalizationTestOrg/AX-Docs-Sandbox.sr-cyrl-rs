@@ -1,23 +1,25 @@
 ---
-title: Spanish promissory note options | Microsoft Docs
+title: Spanish promissory note options
 description: This topic describes options and changes for the basic promissory note functionality that is implemented in Microsoft Dynamics 365 for Operations for legal entities in Spain.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-19 17:52:41
+ms.date: 2016-12-19 17 - 52 - 41
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264624
-ms.assetid: 57bd5860-5bce-44f2-962f-00b8ab54a9ce
-ms.region: Spain
+ms.assetid: a4925301-e193-49ce-814d-a0b71899118d
+ms.search.region: Spain
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c9c49d257d2df81f7a81b688376d9ce8fb61c257
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 43992196982f52a8e1fe23a58681a8c9aa24a6d0
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -43,10 +45,5 @@ If the **Date treatment (promissory notes journal)** parameter is set to **Yes**
 
 ## <a name="invoice-confirmation"></a>Invoice confirmation
 If the **Confirming invoices treatment** parameter is set to **Yes**, a separate line is created for each invoice number when you create payment proposals for Remittance journals and Settle promissory note journals. Separate lines are created, regardless of the selection in the **Period** field for the method of payment. Each invoice amount can be verified in the Remittance journal. If the **Confirming invoices treatment** parameter is set to **No**, journal lines can include amounts for multiple invoices, depending on the selection in the **Period** field.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

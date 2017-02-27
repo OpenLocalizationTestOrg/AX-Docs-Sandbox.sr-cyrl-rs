@@ -1,24 +1,26 @@
 ---
-title: VAT statement details for Lithuania | Microsoft Docs
+title: VAT statement details for Lithuania
 description: This topic explains how to set up a VAT statement for legal entities in Lithuania.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2017-01-11 13:48:27
+ms.date: 2017-01-11 13 - 48 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TaxAuthority, TaxReportCollection, TaxReportVoucher, TaxTable
+ms.search.form: TaxAuthority, TaxReportCollection, TaxReportVoucher, TaxTable
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 266884
-ms.assetid: 359cadac-acae-4783-9d44-005a11da8595
-ms.region: Lithuania
+ms.assetid: 96122273-e9f8-40bf-ab2d-77875d029f9e
+ms.search.region: Lithuania
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-05-2016
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: e010218b6c74ca3ca809f51932df5dcb56b81bc8
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 60df14290a6654d4567ae1ce8beff3fa9ba27cef
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -27,7 +29,7 @@ ms.openlocfilehash: e010218b6c74ca3ca809f51932df5dcb56b81bc8
 
 This topic explains how to set up a VAT statement for legal entities in Lithuania.
 
-This topic includes country/region-specific information about the setup of the value-added tax (VAT) statement for legal entities in Lithuania only. For more information about the setup of VAT statements, see [(EU) VAT reporting](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-vat-reporting).
+This topic includes country/region-specific information about the setup of the value-added tax (VAT) statement for legal entities in Lithuania only. For more information about the setup of VAT statements, see [(EU) VAT reporting](eu-vat-reporting.md).
 
 ## <a name="set-up-sales-tax-authorities"></a>Set up sales tax authorities
 To generate a VAT declaration in the required format for the appropriate tax authority, you must set up the report layout for sales tax authorities. On the **Sales tax authorities** page, in the **Report layout** field, select **Default**. Select the same sales tax authority for the sales tax settlement period that will be used for sales tax codes.
@@ -67,10 +69,5 @@ To review or change the VAT statement configuration, on the **Reporting configur
 
 ## <a name="generate-a-vat-statement"></a>Generate a VAT statement
 To generate a VAT XML file, on the **Sales tax payments** page, select one or more vouchers, and then click **Export VAT XML file**.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

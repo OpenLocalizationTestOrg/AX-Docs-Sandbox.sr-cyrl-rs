@@ -1,24 +1,26 @@
 ---
-title: DIOT declaration statement | Microsoft Docs
+title: DIOT declaration statement
 description: This topic provides information about the DIOT declaration statement for Mexico.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-04-08 15:49:36
+ms.date: 2016-04-08 15 - 49 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: DIOTDeclarationConcept_MX, DIOTDeclarationTaxCode_MX, VendTable
+ms.search.form: DIOTDeclarationConcept_MX, DIOTDeclarationTaxCode_MX, VendTable
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79334
-ms.assetid: 1edb2f4c-0bad-424c-84ce-a974ddd103ae
-ms.region: Mexico
+ms.assetid: 0cdb4da3-dca8-4e31-8fd5-8a1f785b5104
+ms.search.region: Mexico
 ms.author: sndray
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a3f0df1fd6cf7bcb5cb2a8500f4d177b3112585a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 7535ee6d42198f63ea1f09b2ff709bf8886e5503
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -128,10 +130,5 @@ In the DIOT declaration statement, the amounts have either positive or negative 
 | Debit amount with negative-sales tax amount  | Plus sign (+)              |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

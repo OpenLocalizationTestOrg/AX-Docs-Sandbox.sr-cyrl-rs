@@ -1,23 +1,25 @@
 ---
-title: Line discount calculation from the unit price for Poland | Microsoft Docs
+title: Line discount calculation from the unit price for Poland
 description: For legal entities in Poland, the line discount can be calculated from the unit price of an invoice line instead of from a line amount. This topic provides information about the Line discount calculation from unit price method and explains how to set it up.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-14 15:46:37
+ms.date: 2016-12-14 15 - 46 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 263424
-ms.assetid: dd5138d3-1faf-4b7b-b125-0d74dcab36c6
-ms.region: Poland
+ms.assetid: d0645f8d-05a4-4212-b6de-975a625b1fe0
+ms.search.region: Poland
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a17cba0c6a4ffa477b93f525b959e06ce14eb514
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 492269980589b4e6e54aa51e683bc0b7c4656d22
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -64,10 +66,5 @@ The **Calculation of line discount** parameter affects the following documents:
 -   Purchase orders
 -   Vendor invoices
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

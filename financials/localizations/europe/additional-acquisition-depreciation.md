@@ -1,23 +1,26 @@
 ---
-title: Additional acquisition depreciation | Microsoft Docs
+title: Additional acquisition depreciation
 description: This article explains how depreciation is calculated for additional acquisitions in Germany and provides an example. Acquisition adjustments for fixed assets must always be calculated as if the adjustments were made on the first day of the business year.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-11-16 21:15:37
+ms.date: 2015-11-16 21 - 15 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 12791
-ms.assetid: f78ab316-0a6f-4d96-928d-8c575c962837
-ms.region: Germany
+ms.assetid: b8e17c7a-917c-4016-87a5-27c34ccde941
+ms.search.region: Germany
 ms.author: mrolecki
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d0adeb976468d6730cbad958620c43735984be14
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 7af91c12f03ec5a96e1e2880888eaf24c296bb8f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -40,10 +43,5 @@ In 2015, your organization acquired a fixed asset for 60,000. Your organization 
 | May 2016      | 1,000                                                           | 250                                                               | 1,250                     |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -16,8 +16,9 @@ ms.assetid: fc0261c9-6e02-4d80-bbc4-41bacb325fc4
 ms.region: Global
 ms.author: sericks
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
+ms.sourcegitcommit: cd60e3f11eee68157093295b9636e1f92dcd19b0
 ms.openlocfilehash: bda38dc4aa67fa422174d2ffc9cd1554ff5396ec
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -784,10 +785,5 @@ Human Resources Payroll information
 | Modules affected             | General ledger                                                                              |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 
